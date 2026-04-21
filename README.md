@@ -19,12 +19,19 @@ data/
 
 ## Format
 
-Gzipped CSV, 5 columns, header-first, comma-separated:
+Gzipped CSV, header-first, comma-separated. Schemas differ slightly per level:
 
+**host/** — 5 columns:
 ```
 rank,harmonicc_val,pr_pos,pr_val,host
 1,3.7549092E7,5,0.004897432273872421,www.facebook.com
-2,3.7300396E7,4,0.006354617185491388,fonts.googleapis.com
+…
+```
+
+**domain/** — 6 columns (the upstream file carries an extra `n_hosts` column):
+```
+rank,harmonicc_val,pr_pos,pr_val,domain,n_hosts
+1,3.053703E7,3,0.009072779578696339,facebook.com,3356
 …
 ```
 
@@ -34,9 +41,10 @@ rank,harmonicc_val,pr_pos,pr_val,host
 | `harmonicc_val` | Harmonic Centrality score (scientific notation). |
 | `pr_pos` | PageRank position for the same entity. |
 | `pr_val` | PageRank score. |
-| `host` (or `domain`) | Forward-order host/domain; upstream stores reverse-domain form, this mirror un-reverses it. |
+| `host` / `domain` | Forward-order host/domain; upstream stores reverse-domain form, this mirror un-reverses it. |
+| `n_hosts` | *(domain only)* Number of distinct hosts upstream aggregated into this registrable domain. |
 
-Rows sorted by `rank` ascending. The `domain/` file is the same schema but with `domain` as the last column and one row per registrable domain.
+Rows sorted by `rank` ascending.
 
 ## Consume
 
