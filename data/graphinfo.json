@@ -1,0 +1,960 @@
+[
+  {
+    "id": "cc-main-2026-jan-feb-mar",
+    "crawls": [
+      "CC-MAIN-2026-04",
+      "CC-MAIN-2026-08",
+      "CC-MAIN-2026-12"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2026-jan-feb-mar/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2026-jan-feb-mar/",
+    "stats": {
+      "host": {
+        "nodes": 270241065,
+        "arcs": 8997428855
+      },
+      "domain": {
+        "nodes": 120025754,
+        "arcs": 4422619177
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-26-dec-jan-feb",
+    "crawls": [
+      "CC-MAIN-2025-51",
+      "CC-MAIN-2026-04",
+      "CC-MAIN-2026-08"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-26-dec-jan-feb/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-26-dec-jan-feb/",
+    "stats": {
+      "host": {
+        "nodes": 288604261,
+        "arcs": 12365071120
+      },
+      "domain": {
+        "nodes": 134222466,
+        "arcs": 5380423856
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-26-nov-dec-jan",
+    "crawls": [
+      "CC-MAIN-2025-47",
+      "CC-MAIN-2025-51",
+      "CC-MAIN-2026-04"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-26-nov-dec-jan/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-26-nov-dec-jan/",
+    "stats": {
+      "host": {
+        "nodes": 279356058,
+        "arcs": 13431887360
+      },
+      "domain": {
+        "nodes": 122294847,
+        "arcs": 6112336768
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-oct-nov-dec",
+    "crawls": [
+      "CC-MAIN-2025-43",
+      "CC-MAIN-2025-47",
+      "CC-MAIN-2025-51"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-oct-nov-dec/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-oct-nov-dec/",
+    "stats": {
+      "host": {
+        "nodes": 250753325,
+        "arcs": 10858559096
+      },
+      "domain": {
+        "nodes": 121304598,
+        "arcs": 6220780848
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-sep-oct-nov",
+    "crawls": [
+      "CC-MAIN-2025-38",
+      "CC-MAIN-2025-43",
+      "CC-MAIN-2025-47"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-sep-oct-nov/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-sep-oct-nov/",
+    "stats": {
+      "host": {
+        "nodes": 235658112,
+        "arcs": 9479060701
+      },
+      "domain": {
+        "nodes": 100662487,
+        "arcs": 6553819804
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-aug-sep-oct",
+    "crawls": [
+      "CC-MAIN-2025-33",
+      "CC-MAIN-2025-38",
+      "CC-MAIN-2025-43"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-aug-sep-oct/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-aug-sep-oct/",
+    "stats": {
+      "host": {
+        "nodes": 468402348,
+        "arcs": 7969920649
+      },
+      "domain": {
+        "nodes": 97717162,
+        "arcs": 5994217181
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-jul-aug-sep",
+    "crawls": [
+      "CC-MAIN-2025-30",
+      "CC-MAIN-2025-33",
+      "CC-MAIN-2025-38"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-jul-aug-sep/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-jul-aug-sep/",
+    "stats": {
+      "host": {
+        "nodes": 628657326,
+        "arcs": 6854958934
+      },
+      "domain": {
+        "nodes": 184587023,
+        "arcs": 5398934716
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-jun-jul-aug",
+    "crawls": [
+      "CC-MAIN-2025-26",
+      "CC-MAIN-2025-30",
+      "CC-MAIN-2025-33"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-jun-jul-aug/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-jun-jul-aug/",
+    "stats": {
+      "host": {
+        "nodes": 691059743,
+        "arcs": 4952015000
+      },
+      "domain": {
+        "nodes": 207560453,
+        "arcs": 3902327394
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-may-jun-jul",
+    "crawls": [
+      "CC-MAIN-2025-21",
+      "CC-MAIN-2025-26",
+      "CC-MAIN-2025-30"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-may-jun-jul/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-may-jun-jul/",
+    "stats": {
+      "host": {
+        "nodes": 481648822,
+        "arcs": 3355655920
+      },
+      "domain": {
+        "nodes": 209497416,
+        "arcs": 2552643505
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-apr-may-jun",
+    "crawls": [
+      "CC-MAIN-2025-18",
+      "CC-MAIN-2025-21",
+      "CC-MAIN-2025-26"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-apr-may-jun/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-apr-may-jun/",
+    "stats": {
+      "host": {
+        "nodes": 371605733,
+        "arcs": 3052862379
+      },
+      "domain": {
+        "nodes": 161816883,
+        "arcs": 2227023429
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-mar-apr-may",
+    "crawls": [
+      "CC-MAIN-2025-13",
+      "CC-MAIN-2025-18",
+      "CC-MAIN-2025-21"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-mar-apr-may/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-mar-apr-may/",
+    "stats": {
+      "host": {
+        "nodes": 326803320,
+        "arcs": 2941436766
+      },
+      "domain": {
+        "nodes": 156144386,
+        "arcs": 2140217715
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-feb-mar-apr",
+    "crawls": [
+      "CC-MAIN-2025-08",
+      "CC-MAIN-2025-13",
+      "CC-MAIN-2025-18"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-feb-mar-apr/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-feb-mar-apr/",
+    "stats": {
+      "host": {
+        "nodes": 309173088,
+        "arcs": 2858348893
+      },
+      "domain": {
+        "nodes": 157123147,
+        "arcs": 2082046433
+      }
+    }
+  },
+  {
+    "id": "cc-main-2025-jan-feb-mar",
+    "crawls": [
+      "CC-MAIN-2025-05",
+      "CC-MAIN-2025-08",
+      "CC-MAIN-2025-13"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-jan-feb-mar/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2025-jan-feb-mar/",
+    "stats": {
+      "host": {
+        "nodes": 293276643,
+        "arcs": 2801432574
+      },
+      "domain": {
+        "nodes": 135153877,
+        "arcs": 2037859503
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-25-dec-jan-feb",
+    "crawls": [
+      "CC-MAIN-2024-51",
+      "CC-MAIN-2025-05",
+      "CC-MAIN-2025-08"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-25-dec-jan-feb/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-25-dec-jan-feb/",
+    "stats": {
+      "host": {
+        "nodes": 267363720,
+        "arcs": 2701899760
+      },
+      "domain": {
+        "nodes": 106478170,
+        "arcs": 1940380995
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-25-nov-dec-jan",
+    "crawls": [
+      "CC-MAIN-2024-46",
+      "CC-MAIN-2024-51",
+      "CC-MAIN-2025-05"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-25-nov-dec-jan/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-25-nov-dec-jan/",
+    "stats": {
+      "host": {
+        "nodes": 277728321,
+        "arcs": 2733552137
+      },
+      "domain": {
+        "nodes": 100765998,
+        "arcs": 1914696705
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-oct-nov-dec",
+    "crawls": [
+      "CC-MAIN-2024-42",
+      "CC-MAIN-2024-46",
+      "CC-MAIN-2024-51"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-oct-nov-dec/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-oct-nov-dec/",
+    "stats": {
+      "host": {
+        "nodes": 283704061,
+        "arcs": 2611176567
+      },
+      "domain": {
+        "nodes": 98727688,
+        "arcs": 1753180580
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-sep-oct-nov",
+    "crawls": [
+      "CC-MAIN-2024-38",
+      "CC-MAIN-2024-42",
+      "CC-MAIN-2024-46"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-sep-oct-nov/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-sep-oct-nov/",
+    "stats": {
+      "host": {
+        "nodes": 298244156,
+        "arcs": 2713346784
+      },
+      "domain": {
+        "nodes": 98031234,
+        "arcs": 1763636882
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-aug-sep-oct",
+    "crawls": [
+      "CC-MAIN-2024-33",
+      "CC-MAIN-2024-38",
+      "CC-MAIN-2024-42"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-aug-sep-oct/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-aug-sep-oct/",
+    "stats": {
+      "host": {
+        "nodes": 299918956,
+        "arcs": 2627429657
+      },
+      "domain": {
+        "nodes": 96021021,
+        "arcs": 1679689064
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-jul-aug-sep",
+    "crawls": [
+      "CC-MAIN-2024-30",
+      "CC-MAIN-2024-33",
+      "CC-MAIN-2024-38"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-jul-aug-sep/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-jul-aug-sep/",
+    "stats": {
+      "host": {
+        "nodes": 306548416,
+        "arcs": 2647414185
+      },
+      "domain": {
+        "nodes": 95369395,
+        "arcs": 1673843124
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-jun-jul-aug",
+    "crawls": [
+      "CC-MAIN-2024-26",
+      "CC-MAIN-2024-30",
+      "CC-MAIN-2024-33"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-jun-jul-aug/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-jun-jul-aug/",
+    "stats": {
+      "host": {
+        "nodes": 361648446,
+        "arcs": 2715890154
+      },
+      "domain": {
+        "nodes": 159674761,
+        "arcs": 1761783181
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-may-jun-jul",
+    "crawls": [
+      "CC-MAIN-2024-22",
+      "CC-MAIN-2024-26",
+      "CC-MAIN-2024-30"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-may-jun-jul/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-may-jun-jul/",
+    "stats": {
+      "host": {
+        "nodes": 362168422,
+        "arcs": 2749439859
+      },
+      "domain": {
+        "nodes": 163003160,
+        "arcs": 1817200335
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-apr-may-jun",
+    "crawls": [
+      "CC-MAIN-2024-18",
+      "CC-MAIN-2024-22",
+      "CC-MAIN-2024-26"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-apr-may-jun/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-apr-may-jun/",
+    "stats": {
+      "host": {
+        "nodes": 371683498,
+        "arcs": 2717872917
+      },
+      "domain": {
+        "nodes": 173391896,
+        "arcs": 1884295856
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-feb-apr-may",
+    "crawls": [
+      "CC-MAIN-2024-10",
+      "CC-MAIN-2024-18",
+      "CC-MAIN-2024-22"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-feb-apr-may/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-feb-apr-may/",
+    "stats": {
+      "host": {
+        "nodes": 336594926,
+        "arcs": 2601584631
+      },
+      "domain": {
+        "nodes": 127746477,
+        "arcs": 1817949924
+      }
+    }
+  },
+  {
+    "id": "cc-main-2024-nov-feb-apr",
+    "crawls": [
+      "CC-MAIN-2023-50",
+      "CC-MAIN-2024-10",
+      "CC-MAIN-2024-18"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2024-nov-feb-apr/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2024-nov-feb-apr/",
+    "stats": {
+      "host": {
+        "nodes": 335267082,
+        "arcs": 2701550796
+      },
+      "domain": {
+        "nodes": 113858457,
+        "arcs": 1874394483
+      }
+    }
+  },
+  {
+    "id": "cc-main-2023-24-sep-nov-feb",
+    "crawls": [
+      "CC-MAIN-2023-40",
+      "CC-MAIN-2023-50",
+      "CC-MAIN-2024-10"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2023-24-sep-nov-feb/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2023-24-sep-nov-feb/",
+    "stats": {
+      "host": {
+        "nodes": 348360632,
+        "arcs": 2664958823
+      },
+      "domain": {
+        "nodes": 101323206,
+        "arcs": 1817702478
+      }
+    }
+  },
+  {
+    "id": "cc-main-2023-may-sep-nov",
+    "crawls": [
+      "CC-MAIN-2023-23",
+      "CC-MAIN-2023-40",
+      "CC-MAIN-2023-50"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2023-may-sep-nov/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2023-may-sep-nov/",
+    "stats": {
+      "host": {
+        "nodes": 319124148,
+        "arcs": 2404066457
+      },
+      "domain": {
+        "nodes": 93942613,
+        "arcs": 1625079303
+      }
+    }
+  },
+  {
+    "id": "cc-main-2023-mar-may-oct",
+    "crawls": [
+      "CC-MAIN-2023-14",
+      "CC-MAIN-2023-23",
+      "CC-MAIN-2023-40"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2023-mar-may-oct/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2023-mar-may-oct/",
+    "stats": {
+      "host": {
+        "nodes": 378733557,
+        "arcs": 2609508328
+      },
+      "domain": {
+        "nodes": 94197637,
+        "arcs": 1691579554
+      }
+    }
+  },
+  {
+    "id": "cc-main-2022-23-sep-nov-jan",
+    "crawls": [
+      "CC-MAIN-2023-06",
+      "CC-MAIN-2022-49",
+      "CC-MAIN-2022-40"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2022-23-sep-nov-jan/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2022-23-sep-nov-jan/",
+    "stats": {
+      "host": {
+        "nodes": 324703686,
+        "arcs": 2630857060
+      },
+      "domain": {
+        "nodes": 88092985,
+        "arcs": 1686970894
+      }
+    }
+  },
+  {
+    "id": "cc-main-2022-may-jun-aug",
+    "crawls": [
+      "CC-MAIN-2022-33",
+      "CC-MAIN-2022-27",
+      "CC-MAIN-2022-21"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2022-may-jun-aug/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2022-may-jun-aug/",
+    "stats": {
+      "host": {
+        "nodes": 449151318,
+        "arcs": 2693286778
+      },
+      "domain": {
+        "nodes": 91068127,
+        "arcs": 1575016171
+      }
+    }
+  },
+  {
+    "id": "cc-main-2021-22-oct-nov-jan",
+    "crawls": [
+      "CC-MAIN-2022-05",
+      "CC-MAIN-2021-49",
+      "CC-MAIN-2021-43"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2021-22-oct-nov-jan/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2021-22-oct-nov-jan/",
+    "stats": {
+      "host": {
+        "nodes": 384849412,
+        "arcs": 2472924097
+      },
+      "domain": {
+        "nodes": 90296538,
+        "arcs": 1550852749
+      }
+    }
+  },
+  {
+    "id": "cc-main-2021-jun-jul-sep",
+    "crawls": [
+      "CC-MAIN-2021-39",
+      "CC-MAIN-2021-31",
+      "CC-MAIN-2021-25"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2021-jun-jul-sep/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2021-jun-jul-sep/",
+    "stats": {
+      "host": {
+        "nodes": 765504147,
+        "arcs": 4947819344
+      },
+      "domain": {
+        "nodes": 87870767,
+        "arcs": 1558152694
+      }
+    }
+  },
+  {
+    "id": "cc-main-2021-feb-apr-may",
+    "crawls": [
+      "CC-MAIN-2021-21",
+      "CC-MAIN-2021-17",
+      "CC-MAIN-2021-10"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2021-feb-apr-may/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2021-feb-apr-may/",
+    "stats": {
+      "host": {
+        "nodes": 514570179,
+        "arcs": 2816716559
+      },
+      "domain": {
+        "nodes": 87749728,
+        "arcs": 1579621239
+      }
+    }
+  },
+  {
+    "id": "cc-main-2020-21-oct-nov-jan",
+    "crawls": [
+      "CC-MAIN-2021-04",
+      "CC-MAIN-2020-50",
+      "CC-MAIN-2020-45"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2020-21-oct-nov-jan/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2020-21-oct-nov-jan/",
+    "stats": {
+      "host": {
+        "nodes": 490193249,
+        "arcs": 2575254142
+      },
+      "domain": {
+        "nodes": 85908635,
+        "arcs": 1474317705
+      }
+    }
+  },
+  {
+    "id": "cc-main-2020-jul-aug-sep",
+    "crawls": [
+      "CC-MAIN-2020-40",
+      "CC-MAIN-2020-34",
+      "CC-MAIN-2020-29"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2020-jul-aug-sep/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2020-jul-aug-sep/",
+    "stats": {
+      "host": {
+        "nodes": 538570861,
+        "arcs": 3021307494
+      },
+      "domain": {
+        "nodes": 88591818,
+        "arcs": 1710562230
+      }
+    }
+  },
+  {
+    "id": "cc-main-2020-feb-mar-may",
+    "crawls": [
+      "CC-MAIN-2020-24",
+      "CC-MAIN-2020-16",
+      "CC-MAIN-2020-10"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2020-feb-mar-may/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2020-feb-mar-may/",
+    "stats": {
+      "host": {
+        "nodes": 927132915,
+        "arcs": 3884600740
+      },
+      "domain": {
+        "nodes": 90983688,
+        "arcs": 1960551499
+      }
+    }
+  },
+  {
+    "id": "cc-main-2019-20-nov-dec-jan",
+    "crawls": [
+      "CC-MAIN-2020-05",
+      "CC-MAIN-2019-51",
+      "CC-MAIN-2019-47"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2019-20-nov-dec-jan/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2019-20-nov-dec-jan/",
+    "stats": {
+      "host": {
+        "nodes": 1236811949,
+        "arcs": 4539340950
+      },
+      "domain": {
+        "nodes": 85840531,
+        "arcs": 1936538896
+      }
+    }
+  },
+  {
+    "id": "cc-main-2019-aug-sep-oct",
+    "crawls": [
+      "CC-MAIN-2019-43",
+      "CC-MAIN-2019-39",
+      "CC-MAIN-2019-35"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2019-aug-sep-oct/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2019-aug-sep-oct/",
+    "stats": {
+      "host": {
+        "nodes": 820304244,
+        "arcs": 4554269575
+      },
+      "domain": {
+        "nodes": 92747835,
+        "arcs": 2391376916
+      }
+    }
+  },
+  {
+    "id": "cc-main-2019-may-jun-jul",
+    "crawls": [
+      "CC-MAIN-2019-30",
+      "CC-MAIN-2019-26",
+      "CC-MAIN-2019-22"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2019-may-jun-jul/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2019-may-jun-jul/",
+    "stats": {
+      "host": {
+        "nodes": 445396777,
+        "arcs": 3140069461
+      },
+      "domain": {
+        "nodes": 88258311,
+        "arcs": 1909511585
+      }
+    }
+  },
+  {
+    "id": "cc-main-2019-feb-mar-apr",
+    "crawls": [
+      "CC-MAIN-2019-18",
+      "CC-MAIN-2019-13",
+      "CC-MAIN-2019-09"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2019-feb-mar-apr/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2019-feb-mar-apr/",
+    "stats": {
+      "host": {
+        "nodes": 492237574,
+        "arcs": 3036667554
+      },
+      "domain": {
+        "nodes": 90757643,
+        "arcs": 1888693874
+      }
+    }
+  },
+  {
+    "id": "cc-main-2018-19-nov-dec-jan",
+    "crawls": [
+      "CC-MAIN-2019-04",
+      "CC-MAIN-2018-51",
+      "CC-MAIN-2018-47"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2018-19-nov-dec-jan/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2018-19-nov-dec-jan/",
+    "stats": {
+      "host": {
+        "nodes": 407339456,
+        "arcs": 4226572657
+      },
+      "domain": {
+        "nodes": 90031628,
+        "arcs": 1687116334
+      }
+    }
+  },
+  {
+    "id": "cc-main-2018-aug-sep-oct",
+    "crawls": [
+      "CC-MAIN-2018-43",
+      "CC-MAIN-2018-39",
+      "CC-MAIN-2018-34"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2018-aug-sep-oct/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2018-aug-sep-oct/",
+    "stats": {
+      "host": {
+        "nodes": 903328680,
+        "arcs": 5262147994
+      },
+      "domain": {
+        "nodes": 87160632,
+        "arcs": 1483801676
+      }
+    }
+  },
+  {
+    "id": "cc-main-2018-may-jun-jul",
+    "crawls": [
+      "CC-MAIN-2018-30",
+      "CC-MAIN-2018-26",
+      "CC-MAIN-2018-22"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2018-may-jun-jul/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2018-may-jun-jul/",
+    "stats": {
+      "host": {
+        "nodes": 886429102,
+        "arcs": 5397084512
+      },
+      "domain": {
+        "nodes": 92055751,
+        "arcs": 1454899093
+      }
+    }
+  },
+  {
+    "id": "cc-main-2018-feb-mar-apr",
+    "crawls": [
+      "CC-MAIN-2018-17",
+      "CC-MAIN-2018-13",
+      "CC-MAIN-2018-09"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2018-feb-mar-apr/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2018-feb-mar-apr/",
+    "stats": {
+      "host": {
+        "nodes": 2140026222,
+        "arcs": 10154132012
+      },
+      "domain": {
+        "nodes": 97912758,
+        "arcs": 1503959484
+      }
+    }
+  },
+  {
+    "id": "cc-main-2018-jan",
+    "crawls": [
+      "CC-MAIN-2018-05"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2018-jan/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2018-jan/",
+    "stats": {
+      "host": {
+        "nodes": 774883670,
+        "arcs": 2715509033
+      },
+      "domain": {
+        "nodes": 70367284,
+        "arcs": 834822126
+      }
+    }
+  },
+  {
+    "id": "cc-main-2017-18-nov-dec-jan",
+    "crawls": [
+      "CC-MAIN-2018-05",
+      "CC-MAIN-2017-51",
+      "CC-MAIN-2017-47"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2017-18-nov-dec-jan/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2017-18-nov-dec-jan/",
+    "stats": {
+      "host": {
+        "nodes": 2757362559,
+        "arcs": 8631281824
+      },
+      "domain": {
+        "nodes": 94681319,
+        "arcs": 1444523227
+      }
+    }
+  },
+  {
+    "id": "cc-main-2017-aug-sep-oct",
+    "crawls": [
+      "CC-MAIN-2017-43",
+      "CC-MAIN-2017-39",
+      "CC-MAIN-2017-34"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2017-aug-sep-oct/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2017-aug-sep-oct/",
+    "stats": {
+      "host": {
+        "nodes": 5111322247,
+        "arcs": 18809472926
+      },
+      "domain": {
+        "nodes": 93111025,
+        "arcs": 1257608653
+      }
+    }
+  },
+  {
+    "id": "cc-main-2017-may-jun-jul",
+    "crawls": [
+      "CC-MAIN-2017-30",
+      "CC-MAIN-2017-26",
+      "CC-MAIN-2017-22"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2017-may-jun-jul/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2017-may-jun-jul/",
+    "stats": {
+      "host": {
+        "nodes": 1306661614,
+        "arcs": 5268397861
+      },
+      "domain": {
+        "nodes": 91034128,
+        "arcs": 1071173924
+      }
+    }
+  },
+  {
+    "id": "cc-main-2017-feb-mar-apr-hostgraph",
+    "crawls": [
+      "CC-MAIN-2017-17",
+      "CC-MAIN-2017-13",
+      "CC-MAIN-2017-09"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2017-feb-mar-apr-hostgraph/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2017-feb-mar-apr-hostgraph/",
+    "stats": {
+      "host": {
+        "nodes": 387806511,
+        "arcs": 2504610000
+      },
+      "domain": {
+        "nodes": 0,
+        "arcs": 0
+      }
+    }
+  }
+]
