@@ -1,0 +1,6 @@
+Scaffolding (README, workflow yml): MIT.
+
+Data (`data/`): derived from Common Crawl's published web-graph ranks,
+which are subject to the Common Crawl Terms of Use at
+https://commoncrawl.org/terms-of-use. Redistribution of the data
+should honor those terms.
