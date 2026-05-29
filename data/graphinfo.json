@@ -1,5 +1,25 @@
 [
   {
+    "id": "cc-main-2026-mar-apr-may",
+    "crawls": [
+        "CC-MAIN-2026-12",
+        "CC-MAIN-2026-17",
+	"CC-MAIN-2026-21"
+    ],
+    "index": "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2026-mar-apr-may/index.html",
+    "location": "s3://commoncrawl/projects/hyperlinkgraph/cc-main-2026-mar-apr-may/",
+    "stats": {
+      "host": {
+        "nodes": 262351907,
+        "arcs": 8076939892
+      },
+      "domain": {
+        "nodes": 118760321,
+        "arcs": 4343610896 
+      }
+    }
+  },
+  {
     "id": "cc-main-2026-feb-mar-apr",
     "crawls": [
         "CC-MAIN-2026-08",
